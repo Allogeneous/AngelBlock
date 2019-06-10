@@ -1,0 +1,17 @@
+name: AngelBlock
+version: 1.0.2
+author: Allogeneous
+main: me.Allogeneous.AngelBlock.AngelBlockMain
+
+commands:
+    giveangelblock:
+        description: Use of /giveangelblock
+        usage: /giveangelblock
+       
+permissions:
+    angelblock.giveangelblock:
+        description: Allows the use of /giveangelblock
+        default: op
+    
+   
+        
